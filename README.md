@@ -1,5 +1,8 @@
 # Mes Projet 
-##MidNight Marathon
+## Game Jam
+### MidNight Marathon
+
 https://ninikow.itch.io/midnight-marathon
 
-jeu fait durant la game jam en partenaria avec tap nation
+## Projet Personnel
+
