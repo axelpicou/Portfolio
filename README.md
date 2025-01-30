@@ -21,7 +21,7 @@ https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 
 ## Projet Scolaire
 
-###AI en reseaux neuronaux
+### AI en reseaux neuronaux
 
 role : developeur
 durée : 2 semaine
@@ -30,7 +30,7 @@ création solo d'une IA pong en reseaux neuronaux
 
 https://github.com/axelpicou/PongAI
 
-###fête foraine UnrealEngine
+### fête foraine UnrealEngine
  role : developeur
  durée : 2semaine
 
