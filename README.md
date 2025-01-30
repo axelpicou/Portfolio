@@ -15,6 +15,7 @@ https://ninikow.itch.io/midnight-marathon
 ### Idle Age
 
 role : developeur 
+
 durée : non fini
 
 jeu mobile crée en tant que projet personnel en collaboration avec 2 autre developeur 
@@ -26,6 +27,7 @@ https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 ### AI en reseaux neuronaux
 
 role : developeur
+
 durée : 2 semaine
 
 création solo d'une IA pong en reseaux neuronaux
@@ -33,7 +35,9 @@ création solo d'une IA pong en reseaux neuronaux
 https://github.com/axelpicou/PongAI
 
 ### fête foraine UnrealEngine
+
  role : developeur
+ 
  durée : 2semaine
 
  premiere fois sur Unreal seul en blueprint
@@ -43,6 +47,7 @@ https://github.com/axelpicou/PongAI
  ### Test UI Unity
 
  role : developeur
+ 
  durée 2 semaine 
 
  utilisation de plusieur type d'UI sur Unity
