@@ -10,6 +10,8 @@ jeu mobile crée sur Unity durant la gamejam en collaboration entre tapnation et
 
 https://ninikow.itch.io/midnight-marathon
 
+https://github.com/GolfOcean334/Game-Jam
+
 ## Projet Personnel
 
 ### Idle Age
