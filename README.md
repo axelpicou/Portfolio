@@ -38,3 +38,12 @@ https://github.com/axelpicou/PongAI
 
  https://github.com/axelpicou/unreal
 
+ ### Test UI Unity
+
+ role : developeur
+ durée 2 semaine 
+
+ utilisation de plusieur type d'UI sur Unity
+
+ https://github.com/axelpicou/Test-UI-Unity
+
