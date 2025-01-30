@@ -49,3 +49,12 @@ https://github.com/axelpicou/PongAI
 
  https://github.com/axelpicou/Test-UI-Unity
 
+ ### Premier Projet Unity
+
+ role : developeur 
+ Durée 2 semaine
+
+decouverte de Unity en duo, creation d'un jeu de foot avec génération aleatoire d'obstacle 
+
+https://github.com/GolfOcean334/Football-Unity
+
