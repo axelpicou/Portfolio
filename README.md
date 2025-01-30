@@ -24,6 +24,25 @@ https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 
 ## Projet Scolaire
 
+### engine 3D Custom
+
+role : developeur 
+durée : 2mois
+
+moteur graphique utilisant Directx11 et ImgUI
+
+feature : 
+
+shader
+
+importation de model 3D
+
+physique des objet 
+
+edition des objet 3D
+
+https://github.com/GamingCampus-AdrienBourgois/khaotic-engine
+
 ### AI en reseaux neuronaux
 
 role : developeur
