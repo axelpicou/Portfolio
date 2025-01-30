@@ -4,6 +4,8 @@
 
 role : lead developeur
 
+tache realisé : creation de la main gameLoop
+
 durée : 2jour
 
 jeu mobile crée sur Unity durant la gamejam en collaboration entre tapnation et gaming campus 
@@ -15,6 +17,8 @@ https://ninikow.itch.io/midnight-marathon
 ### Idle Age
 
 role : developeur 
+
+tache realisé : creation des asset et de l'arbre de recherche
 
 durée : non fini
 
@@ -28,6 +32,8 @@ https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 
 role : developeur 
 durée : 2mois
+
+tache realisé : creation du systheme d'inportation et affichage des objet 3D
 
 moteur graphique utilisant Directx11 et ImgUI
 
@@ -76,6 +82,9 @@ https://github.com/axelpicou/PongAI
  ### Premier Projet Unity
 
  role : developeur 
+
+ tache realisé : movement du joueur physique de la balle et tir des joueur
+ 
  Durée 2 semaine
 
 decouverte de Unity en duo, creation d'un jeu de foot avec génération aleatoire d'obstacle 
