@@ -26,6 +26,39 @@ jeu mobile crée en tant que projet personnel en collaboration avec 2 autre deve
 
 https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 
+## Projet Unreal Engine
+
+### fête foraine UnrealEngine
+
+ role : developeur
+ 
+ durée : 2semaine
+
+ premiere fois sur Unreal seul en blueprint
+
+ https://github.com/axelpicou/unreal
+
+### jeu de course C++ unreal engine 
+
+Role : Developeur
+
+Durée : 5jour
+
+https://github.com/axelpicou/NeonCar
+
+### Jeu Simulation d'avion et tank
+
+Role developeur
+
+durée : 5jour
+
+https://github.com/axelpicou/WarGame
+
+
+
+
+
+
 ## Projet Scolaire
 
 ### engine 3D Custom
@@ -80,31 +113,3 @@ https://github.com/axelpicou/PongAI
 https://github.com/GolfOcean334/Football-Unity
  
  Durée 2 semaine
-
-## Projet Unreal Engine
-
-### fête foraine UnrealEngine
-
- role : developeur
- 
- durée : 2semaine
-
- premiere fois sur Unreal seul en blueprint
-
- https://github.com/axelpicou/unreal
-
-### jeu de course C++ unreal engine 
-
-Role : Developeur
-
-Durée : 5jour
-
-https://github.com/axelpicou/NeonCar
-
-### Jeu Simulation d'avion et tank
-
-Role developeur
-
-durée : 5jour
-
-https://github.com/axelpicou/WarGame
