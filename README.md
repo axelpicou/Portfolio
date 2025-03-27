@@ -59,16 +59,6 @@ création solo d'une IA pong en reseaux neuronaux
 
 https://github.com/axelpicou/PongAI
 
-### fête foraine UnrealEngine
-
- role : developeur
- 
- durée : 2semaine
-
- premiere fois sur Unreal seul en blueprint
-
- https://github.com/axelpicou/unreal
-
  ### Test UI Unity
 
  role : developeur
@@ -84,10 +74,37 @@ https://github.com/axelpicou/PongAI
  role : developeur 
 
  tache realisé : movement du joueur physique de la balle et tir des joueur
+
+ decouverte de Unity en duo, creation d'un jeu de foot avec génération aleatoire d'obstacle 
+
+https://github.com/GolfOcean334/Football-Unity
  
  Durée 2 semaine
 
-decouverte de Unity en duo, creation d'un jeu de foot avec génération aleatoire d'obstacle 
+## Projet Unreal Engine
 
-https://github.com/GolfOcean334/Football-Unity
+### fête foraine UnrealEngine
 
+ role : developeur
+ 
+ durée : 2semaine
+
+ premiere fois sur Unreal seul en blueprint
+
+ https://github.com/axelpicou/unreal
+
+### jeu de course C++ unreal engine 
+
+Role : Developeur
+
+Durée : 5jour
+
+https://github.com/axelpicou/NeonCar
+
+### Jeu Simulation d'avion et tank
+
+Role developeur
+
+durée : 5jour
+
+https://github.com/axelpicou/WarGame
