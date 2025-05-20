@@ -36,7 +36,7 @@ https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 
 Jeu mobile sur Unreal Engine
 
- https://github.com/axelpicou/Portaldash/settings
+ https://github.com/axelpicou/Portaldash
 
 ### fête foraine UnrealEngine
 
