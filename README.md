@@ -2,7 +2,7 @@
 
 ## Projet Unreal Engine
 
-### Jeu Moblie Unreal engine
+### Jeu Moblie Android Unreal engine
 
  Role : lead developeur
 
@@ -11,16 +11,6 @@
 Jeu mobile sur Unreal Engine
 
  https://github.com/axelpicou/Portaldash
-
-### fête foraine UnrealEngine
-
- role : developeur
- 
- durée : 2semaine
-
- premiere fois sur Unreal seul en blueprint
-
- https://github.com/axelpicou/unreal
 
 ### jeu de course C++ unreal engine 
 
