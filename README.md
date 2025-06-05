@@ -1,30 +1,4 @@
 # Mes Projet 
-## Game Jam
-### MidNight Marathon
-
-role : lead developeur
-
-tache realisé : creation de la main gameLoop
-
-durée : 2jour
-
-jeu mobile crée sur Unity durant la gamejam en collaboration entre tapnation et gaming campus 
-
-https://ninikow.itch.io/midnight-marathon
-
-## Projet Personnel
-
-### Idle Age
-
-role : developeur 
-
-tache realisé : creation des asset et de l'arbre de recherche
-
-durée : non fini
-
-jeu mobile crée en tant que projet personnel en collaboration avec 2 autre developeur 
-
-https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
 
 ## Projet Unreal Engine
 
@@ -64,12 +38,34 @@ durée : 5jour
 
 https://github.com/axelpicou/WarGame
 
+## Game Jam
+### MidNight Marathon
 
+role : lead developeur
 
+tache realisé : creation de la main gameLoop
 
+durée : 2jour
 
+jeu mobile crée sur Unity durant la gamejam en collaboration entre tapnation et gaming campus 
 
-## Projet Scolaire
+https://ninikow.itch.io/midnight-marathon
+
+## Projet Personnel
+
+### Idle Age
+
+role : developeur 
+
+tache realisé : creation des asset et de l'arbre de recherche
+
+durée : non fini
+
+jeu mobile crée en tant que projet personnel en collaboration avec 2 autre developeur 
+
+https://github.com/GolfOcean334/Projet-Perso--Idle-Ages-
+
+## Autre projet
 
 ### engine 3D Custom
 
